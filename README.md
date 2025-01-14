@@ -16,5 +16,3 @@ https://colab.research.google.com/drive/1siMA7i82-me9s47fNQUc-cQyY6gYZRtO#scroll
 Cuarto experimento con el modelo MobileViT:
 https://colab.research.google.com/drive/1CYfMalN8Vpa3XrSpxn-dYzf3h4e2GEKc#scrollTo=F8hPXqGqM18B
 
-Otras comprobaciones:
-Test_ViTForImageClassification.ipynb: https://colab.research.google.com/drive/1Ixj6DLtPT7jJwedS_5LXHhA8LEesPjs7#scrollTo=yJYO2O7OXV2e
