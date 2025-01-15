@@ -2,6 +2,9 @@
 Trabajo Final de Máster, Machine Learning
 Clasificación de Imágenes Mediante Transfer Learning de Redes Neuronales.
 
+Enlace al video de la presentacion:
+https://drive.google.com/file/d/1ydI3Utkd_f0y6265zj9Tlp-emuUqOtnS/view?usp=sharing
+
 Enlaces al Jupyter Notebook del Código desarrollado en esta investigación:
 
 Primer experimento con el modelo MobileViT y el dataset tiny-imagenet-200:
