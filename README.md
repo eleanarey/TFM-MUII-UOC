@@ -11,6 +11,10 @@ Presentación:
 
 - https://drive.google.com/file/d/1K1E_c3Pu5QAMf01VjeFyKq40G1bGb7uA/view?usp=drive_link
 
+Presentación resumida para la defensa:
+
+-https://docs.google.com/presentation/d/1ye1ZSnGNeNbHe4alFO5fPCcIfqNAzUsr/edit?usp=drive_link&ouid=102333957978031070482&rtpof=true&sd=true
+
 
 Enlace al video de la presentacion:
 
