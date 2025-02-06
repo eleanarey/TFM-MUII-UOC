@@ -7,18 +7,9 @@ Memoria:
 - https://drive.google.com/file/d/1JmybyjwZdSwAUZaWCKuz_LmvIGf02GpT/view?usp=sharing
 
 
-Presentación:
-
-- https://drive.google.com/file/d/1K1E_c3Pu5QAMf01VjeFyKq40G1bGb7uA/view?usp=drive_link
-
 Presentación resumida para la defensa:
 
 -https://docs.google.com/presentation/d/1ye1ZSnGNeNbHe4alFO5fPCcIfqNAzUsr/edit?usp=drive_link&ouid=102333957978031070482&rtpof=true&sd=true
-
-
-Enlace al video de la presentacion:
-
-- https://drive.google.com/file/d/1ydI3Utkd_f0y6265zj9Tlp-emuUqOtnS/view?usp=sharing
 
 
 *Enlaces al Jupyter Notebook del Código desarrollado en esta investigación:*
